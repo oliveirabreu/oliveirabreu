@@ -1,0 +1,5 @@
+- 👋 Ola, Meu nome é Marcelo Oliveira Abreu
+- 👀 Estou interessado em front-end e back-end web.
+- 🌱 Nessa área somos todos aprendizes
+- 💞️ Estou sempre disposto a colaborar em qualquer tipo de projeto. Tenho experiência em projetos web.
+- 📫 Você pode entrar em contato comigo pelo e-mail marcelo_breu@hotmail.com ou pelo telefone 54 99136-4455
